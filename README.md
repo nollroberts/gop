@@ -52,3 +52,11 @@
   - https://www.sheridancounty.com/
 - Goverment notification delivery service
   - https://public.govdelivery.com
+
+
+# Question
+How to assist the citizenry in: 
+- digesting public information,
+- being an informed citizenry (not just citizen(s)), and
+- fully engaging and participating in a government of, by, & for the People?
+ 
