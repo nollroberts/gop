@@ -14,7 +14,14 @@
     - Street  
       - Block 
 - Support or rejection of a policy
+- Graphs
+  - Visualizing
+  - Creating & analizing 
 
 ### Self Publishing
 - GitHub
 
+### Website(s)
+- Static
+- Dynamic
+  - db backend 
