@@ -25,4 +25,19 @@
 ### Website(s)
 - Static
 - Dynamic
-  - db backend 
+  - db backend
+  - tags
+  - links 
+
+### Communications
+- Purpose
+- Goals
+- Objectives
+
+### ?
+- Infrastructure
+- Protocols
+- Networks
+  - People
+  - Ideas
+ 
