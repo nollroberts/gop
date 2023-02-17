@@ -57,7 +57,7 @@
 
 # Question
 How to assist the citizenry in: 
-- digesting public information,
+- digesting public information (documentation and public meetings),
 - being an informed citizenry (not just citizen(s)), and
 - fully engaging and participating in a government of, by, & for the People?
  
