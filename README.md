@@ -41,3 +41,10 @@
   - People
   - Ideas
  
+### Topics
+- SCGOP Platform
+  - https://www.wyoming.gop/2022-wy-gop-platform
+- https://www.wyoleg.gov/
+- https://destinyhosted.com/agenda_publish.cfm?id=74374&mt=ALL&vl=true&get_month=2&get_year=2023
+- https://www.sheridancounty.com/
+- https://public.govdelivery.com
