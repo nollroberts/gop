@@ -44,7 +44,7 @@
 ### Information & Topics
 - SCGOP Platform
   - https://www.wyoming.gop/2022-wy-gop-platform
-  - https://static.wixstatic.com/media/40d80b8089c8418a961cb75d96d491f7.png/v1/fill/w_80,h_107,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/40d80b8089c8418a961cb75d96d491f7.png
+  - [https://static.wixstatic.com/media/40d80b8089c8418a961cb75d96d491f7.png/v1/fill/w_80,h_107,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/40d80b8089c8418a961cb75d96d491f7.png](https://www.scwygop.us/_files/ugd/96d7c3_c2b85a7f9ccc43b2a2a27c142075c141.pdf)
 - State Legislation 
   - https://www.wyoleg.gov/
 - City of Sheridan agendas
